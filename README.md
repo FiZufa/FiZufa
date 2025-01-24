@@ -1,6 +1,7 @@
 Hello world! 👋
 
-I'm a final-year student majoring in Computer Science and Engineering at ![sustech.edu.cn](Southern University of Science and Technology (SUSTech / 南方科技大学)), China.
+I'm a final-year student majoring in Computer Science and Engineering at [Southern University of Science and Technology (SUSTech / 南方科技大学)](https://www.sustech.edu.cn)
+, China.
 
 Currently, my interests lie at the intersection of technology, data, and design.
 
@@ -11,3 +12,7 @@ Specifically:
 - building deliverable software systems and exploring software engineering concepts.
   
 Feel free to explore my social media or connect with me! ✨
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FiZufa&show_icons=true&theme=radical)
+
