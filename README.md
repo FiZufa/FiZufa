@@ -1,4 +1,4 @@
-# Hello world! 👋
+# Hello world! 🤗
 
 I'm a final-year student majoring in Computer Science at [Southern University of Science and Technology (SUSTech / 南方科技大学)](https://www.sustech.edu.cn), China.
 
