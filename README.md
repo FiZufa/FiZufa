@@ -7,7 +7,7 @@ I'm an **AI Engineer** who enjoys building intelligent systems and exploring the
 ## 💻 Tech Stack
 
 * **Python**
-* **Vue.js**
+* **Vue.js** (front-end)
 * **Java**
 
 ## 🌱 What I Enjoy
