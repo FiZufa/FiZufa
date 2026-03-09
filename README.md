@@ -2,7 +2,9 @@
 
 Welcome to my GitHub profile!
 
-I'm an **AI Engineer** who enjoys building intelligent systems and exploring the intersection of **technology, language, and data**. I love turning ideas into meaningful tools and continuously learning along the way.
+I'm an **AI Engineer** who enjoys building intelligent systems and exploring the intersection of **technology, language, and data**. I love turning ideas into meaningful tools and creating things that bring value to people and help make life a little better.
+
+I enjoy exploring AI tools, prototyping ideas quickly, and building meaningful projects that combine creativity with technology.
 
 ## 💻 Tech Stack
 
